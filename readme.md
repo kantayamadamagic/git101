@@ -7,3 +7,4 @@
 また会ったね、GitHub!
 Hello!
 你好!
+Good morning!
