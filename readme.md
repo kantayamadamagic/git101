@@ -6,3 +6,4 @@
 さようなら、GitHub!
 また会ったね、GitHub!
 Hello!
+Good morning!
