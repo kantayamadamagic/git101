@@ -5,3 +5,4 @@
 こんばんは、GitHub!
 さようなら、GitHub!
 また会ったね、GitHub!
+Hello!
